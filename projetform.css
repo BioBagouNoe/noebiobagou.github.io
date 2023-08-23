@@ -1,0 +1,268 @@
+
+body {
+    /* background-image:url(canada.jpg);
+    background-position: fixed; */
+    background-color:saddlebrown;
+    
+   
+}
+
+ form {
+    margin-left:450px;
+    margin-right:300px;
+} 
+
+#granddiv{
+    margin-top:-800px;
+} 
+h3{
+    text-align:center;
+} 
+h1{
+    text-align:center;
+} 
+#div1{
+    display:flex;
+} 
+#div111{
+    display:flex;
+} 
+#div1112{
+    display:flex; 
+    
+    
+}
+#s1 {
+    padding:5px ;
+    border-radius:15px;
+    border:none;
+    width:200px;
+
+} 
+#i1{
+    padding:5px ;
+    border-radius:15px;
+    border-color:black;
+   
+}  
+#i2{
+    padding:5px ;
+    border-radius:15px;
+    border-color:black;
+    margin-top:50px;  
+   
+} 
+#i3{
+    padding:5px ;
+    border-radius:15px;
+    border-color:black;
+  
+   
+   
+} 
+#i4{
+    padding:5px ;
+    border-radius:15px;
+    border-color:black;
+    margin-left:20px;
+    
+    width:200px;
+    
+}  
+#nom {
+    margin-left:30px;
+}
+#div11{
+    margin-left:40px;
+} 
+#i3{
+    padding:5px ;
+    border-radius:15px;
+    border-color:black;
+    width:350px;
+    
+   
+} 
+#ss{
+    padding:5px ;
+    border-radius:15px;
+    border-color:black;
+    width:200px;
+    
+   
+} 
+#ssa{
+    padding:5px ;
+    border-radius:15px;
+    border-color:black;
+    width:200px;
+    
+   
+}  
+#iville{
+    padding:5px ;
+    border-radius:15px;
+    border-color:black;
+    width:350px;
+    
+} 
+#num {
+    margin-top:-50px;
+    margin-left:150px;
+    
+} 
+#number{ 
+    padding:5px ;
+    border-radius:15px;
+    width:200px;
+
+}
+#indic{
+    padding:5px ;
+    border-radius:15px;
+    width:90px;
+} 
+#num2 {
+    
+    margin-left:50px;
+    
+} 
+#ssb{
+    padding:5px ;
+    border-radius:15px;
+    width:380px;
+
+} 
+#ssc {
+    padding:5px ;
+    border-radius:15px;
+    width:380px;
+}
+#ssd {
+    padding:5px ;
+    border-radius:15px;
+    width:350px;
+} 
+#domaine{
+    padding:5px ;
+    border-radius:15px;
+    width:350px;
+} 
+#sse {
+    padding:5px ;
+    border-radius:15px;
+    width:360px;
+}
+#dip{
+    padding:5px ;
+    border-radius:15px;
+    width:350px;
+} 
+#dom {
+    padding:5px ;
+    border-radius:15px;
+    width:350px;
+} 
+#ssf{
+    padding:5px ;
+    border-radius:15px;
+    width:300px;
+    margin-left:10px;
+   
+
+} 
+#ssg{
+    padding:5px ;
+    border-radius:15px;
+    width:300px;
+    margin-left:80px;
+    margin-top:-20px;
+    
+
+} 
+#lab{
+    margin-top:50px;
+} 
+#ssh { 
+    padding:5px ;
+    border-radius:15px ;
+    width:360px;
+    border:solid; 
+    border: none;
+    
+
+} 
+#ssi{ 
+    padding:5px ;
+    border-radius:15px;
+    width:380px;
+    
+    
+
+} 
+#ssj{ 
+    padding:5px ;
+    border-radius:15px;
+    width:380px;
+
+} 
+#ssm {
+    padding:5px ;
+    border-radius:15px;
+    width:370px;
+} 
+#ssn {
+    padding:5px ;
+    border-radius:15px;
+    width:380px;
+} 
+#ssk {
+    padding:5px ;
+    border-radius:15px;
+    width:380px;
+} 
+#sso {
+    padding:5px ;
+    border-radius:15px;
+    width:380px;
+} 
+#ing{
+    padding:5px ;
+    border-radius:15px;
+    width:360px;
+} 
+#inga{
+    padding:5px ;
+    border-radius:15px;
+    width:360px;
+
+} 
+#ssp {
+    padding:5px ;
+    border-radius:15px;
+    width:380px;
+}  
+#sss{
+    padding:5px ;
+    border-radius:15px;
+    width:380px;
+} 
+#ssq{
+    padding:5px ;
+    border-radius:15px;
+    width:380px;
+} 
+#sst {
+    padding:5px ;
+    border-radius:15px;
+    width:380px;
+    justify-content:center;
+}  
+#submit {
+    padding:10px ;
+    border-radius:30px;
+    width:150px;
+    height:50px;
+    border-color:blue;
+    background-color:yellow;
+}
